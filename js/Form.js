@@ -18,7 +18,7 @@ class Form {
     
     //Select Map Screen
     this.mapTitle = createElement('h2');
-    this.map1 = createButton('Neon System');
+    this.map1 = createButton('Green Galaxy');
     this.map2 = createButton('Star Filled Void');
   }
   hide(){
